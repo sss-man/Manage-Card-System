@@ -10,6 +10,13 @@ public class PageController {
 	  @RequestMapping("doIndexUI")
 	  public String doIndexUI() {
 		  return "starter";
+		  
+		  
+		  
+		  
+		  
+		  
+		  
 	  }
 	  
 	  @RequestMapping("doPageUI")
